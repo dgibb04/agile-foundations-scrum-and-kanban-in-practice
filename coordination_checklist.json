@@ -1,0 +1,151 @@
+{
+  "workshop_title": "Agile Foundations: Scrum and Kanban in Practice",
+  "event_date": "October 3rd",
+  "expected_attendees": 18,
+  "venue": "Large meeting room with whiteboards and breakout tables",
+  "pre_event_setup": [
+    {
+      "task": "Print Agile Manifesto reference cards and Scrum/Kanban summary sheets",
+      "deadline": "T-7 days",
+      "assigned_to": "organizer",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Ensure enough copies for 18 participants plus spares."
+    },
+    {
+      "task": "Procure physical materials: sticky notes (multiple colors), markers, and whiteboard erasers",
+      "deadline": "T-7 days",
+      "assigned_to": "organizer",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Verify markers are fresh and not dried out."
+    },
+    {
+      "task": "Draft and review facilitator discussion prompts for modules 01 and 02",
+      "deadline": "T-3 days",
+      "assigned_to": "instructor",
+      "priority": "medium",
+      "status": "pending",
+      "notes": "Focus on bridging engineering and marketing perspectives."
+    },
+    {
+      "task": "Prepare retrospective format templates for module 06",
+      "deadline": "T-3 days",
+      "assigned_to": "instructor",
+      "priority": "medium",
+      "status": "pending",
+      "notes": "Include at least 3 different formats (e.g., Start/Stop/Continue, Sailboat, 4Ls)."
+    }
+  ],
+  "venue_readiness": [
+    {
+      "task": "Confirm room layout allows for 18 people in breakout groups",
+      "deadline": "T-1 day",
+      "assigned_to": "organizer",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Ensure tables are arranged to facilitate collaborative whiteboard access."
+    },
+    {
+      "task": "Verify whiteboard availability and cleanliness",
+      "deadline": "T-1 day",
+      "assigned_to": "organizer",
+      "priority": "medium",
+      "status": "pending",
+      "notes": "Ensure sufficient writing surface for 18 participants."
+    }
+  ],
+  "attendee_communications": [
+    {
+      "task": "Send optional pre-reading materials (Agile Manifesto/Scrum/Kanban summary)",
+      "deadline": "T-3 days",
+      "assigned_to": "organizer",
+      "priority": "low",
+      "status": "pending",
+      "notes": "Include a note that this is optional to help level-set for the session."
+    },
+    {
+      "task": "Send workshop reminder with location and start time",
+      "deadline": "T-1 day",
+      "assigned_to": "organizer",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Reiterate that no laptops are needed."
+    }
+  ],
+  "day_of_runsheet": [
+    {
+      "time": "13:00 - 13:45",
+      "module": "Agile Foundations: Mindset and Principles",
+      "type": "content",
+      "duration_minutes": 45,
+      "action_items": [
+        "Instructor delivers: Agile Foundations: Mindset and Principles",
+        "Monitor time and signal 5-minute warning"
+      ]
+    },
+    {
+      "time": "13:45 - 14:45",
+      "module": "Scrum Deep Dive: Roles and Ceremonies",
+      "type": "content",
+      "duration_minutes": 60,
+      "action_items": [
+        "Instructor delivers: Scrum Deep Dive: Roles and Ceremonies",
+        "Monitor time and signal 5-minute warning"
+      ]
+    },
+    {
+      "time": "14:45 - 15:00",
+      "module": "Break 1",
+      "type": "break",
+      "duration_minutes": 15,
+      "action_items": [
+        "Announce break duration",
+        "Ensure refreshments are available"
+      ]
+    },
+    {
+      "time": "15:00 - 15:50",
+      "module": "Kanban Board Design Workshop",
+      "type": "content",
+      "duration_minutes": 50,
+      "action_items": [
+        "Instructor delivers: Kanban Board Design Workshop",
+        "Monitor time and signal 5-minute warning"
+      ]
+    },
+    {
+      "time": "15:50 - 16:05",
+      "module": "Break 2",
+      "type": "break",
+      "duration_minutes": 15,
+      "action_items": [
+        "Announce break duration",
+        "Ensure refreshments are available"
+      ]
+    },
+    {
+      "time": "16:05 - 16:35",
+      "module": "Retrospective Practice",
+      "type": "content",
+      "duration_minutes": 30,
+      "action_items": [
+        "Instructor delivers: Retrospective Practice",
+        "Monitor time and signal 5-minute warning"
+      ]
+    },
+    {
+      "time": "16:35 - 17:00",
+      "module": "Wrap-up and Q&A",
+      "type": "wrap_up",
+      "duration_minutes": 25,
+      "action_items": [
+        "Distribute feedback forms",
+        "Share resource links and next steps",
+        "Thank attendees and instructors"
+      ]
+    }
+  ],
+  "conflict_resolutions": [],
+  "outstanding_items": []
+}
